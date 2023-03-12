@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ade_crypt" target="blank"><img src="https://img.shields.io/twitter/follow/ade_crypt?logo=twitter&style=for-the-badge" alt="ade_crypt" /></a> </p>
 
-- 🔭 I’m currently working on **Mp3 player with queues**
+- 🔭 I’m currently working on **an mp3 player with queues**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
