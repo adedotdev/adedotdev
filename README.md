@@ -7,7 +7,8 @@
 
 <h3 align="left">Skills:</h3>
 <p>⚡Adept in <b>Java, C++, HTML, CSS & MIPS</b></p>
-<p>🔭Proficient in <b>English and Spanish</b></p> 
+<p>🔭Proficient in <b>English and Spanish</b></p>
+<p>📝Knowledgeable in <b>Microsoft Office(Word, Excel, Powerpoint) and Git</b></p>
 <p>🌱Excellent in problem solving and creative thinking</p>
 
 <h3 align="left">Connect with me:</h3>
