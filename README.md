@@ -6,8 +6,8 @@
 <p align="center"><b> 📫 You can contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b></p>
 
 <h3 align="left">Skills:</h3>
-<p align="left">⚡I'm quite adept in <b>Java, C++, HTML, CSS & MIPS</b> but I'm always open to expanding my knowledge.</p>
-<p>🔭</p> 
+<p>⚡I'm quite adept in <b>Java, C++, HTML, CSS & MIPS</b> but I'm always open to expanding my knowledge as I move further into my career.</p>
+<p>🔭Proficient in English and Spanish</p> 
 <p>🌱</p>
 
 <h3 align="left">Connect with me:</h3>
