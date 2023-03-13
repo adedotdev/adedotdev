@@ -1,5 +1,5 @@
 <h1 align="center">Welcome👋</h1>
-<p align="center">Hi I'm Dami, a passionate full-stack developer from Los Angeles. I'm an undergraduate Computer Science major at California State University, Northridge with a lot of experience in Web Development & Object-Oriented Programming. My main interests are in Game Design, Cloud Computing and Blockchain Technology.</p>
+<p align="center">Hi I'm Dami, a passionate full-stack developer from Los Angeles. I'm an undergraduate Computer Science major at California State University, Northridge with a lot of experience in Web Development & Object-Oriented Programming. Although, main interests are Game Design, Cloud Computing and Blockchain Technology, I'm always open to expanding my knowledge and expertise in other areas of computer science.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
  
@@ -9,12 +9,12 @@
 <p>⚡Adept in <b>Java, C++, HTML, CSS & MIPS</b></p>
 <p>🔭Proficient in <b>English and Spanish</b></p>
 <p>📝Knowledgeable in <b>Microsoft Office(Word, Excel, Powerpoint) and Git</b></p>
-<p>🌱Excellent in problem solving and creative thinking</p>
+<p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ade_crypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ade_crypt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dami-adenugba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dami-adenugba" height="30" width="40" /></a>
+<a href="https://twitter.com/ade_crypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ade_crypt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
