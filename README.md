@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Dami</h1>
-<h3 align="center">A passionate backend developer from Los Angeles</h3>
+<h3 align="center">A passionate full developer from Los Angeles. I'm an undergraduate Computer Science major at California State University, Northridge with a lot of experience in Web Development & Object-Oriented Programming. My main interests are in Game Design, Cloud Computing and Blockchain Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **an mp3 player with queues**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Computer Architecture and Assembly Language**
 
-- 📫 How to reach me **damidenuga16@gmail.com**
+- 📫 You can contact me at https://www.linkedin.com/in/dami-adenugba/ or via email at: **damidenuga16@gmail.com**
 
 - ⚡ Fun fact: **I love basketball**
 
