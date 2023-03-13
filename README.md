@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
  
-<p align="center"><b> 📫 You can contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b></p>
+<p align="center"><b>You can contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b>📫</p>
 
 <h3 align="left">Skills:</h3>
 <p>⚡Adept in <b>Java, C++, HTML, CSS & MIPS</b></p>
