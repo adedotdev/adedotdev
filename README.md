@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋</h1>
-<p align="center">I'm Dami, a passionate full-stack developer from Los Angeles. I'm an undergraduate Computer Science major at California State University, Northridge with considerable experience in Data Structure and Algorithms, as well as Object-Oriented Programming and Web Design. Although my main interests are in Artificial Intelligence, Machine Learning, Mobile Development, and Blockchain Technology, I'm always open to expanding my knowledge and expertise in other areas of computer science.</p>
+<p align="center">I'm Dami, a passionate full-stack developer majoring in Computer Science at California State University, Northridge with considerable experience in Data Structure, Algorithms, and Object-Oriented Programming, and Web Design. Although my main interests are in Artificial Intelligence, Machine Learning, Web Development, and Blockchain Technology, I'm always open to expanding my knowledge and expertise in other areas of computer science.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
  
