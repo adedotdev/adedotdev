@@ -6,15 +6,15 @@
 <p align="center"><b>You can contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b>📫</p>
 
 <h3 align="left">Skills:</h3>
-<p>⚡Adept in <b>Java, C++, C, HTML, CSS & MIPS</b></p>
+<p>⚡Adept in <b>Java, C++, C/C#, HTML5, CSS</b></p>
 <p>🔭Proficient in <b>English and Spanish</b></p>
-<p>📝Knowledgeable in <b>Microsoft Office(Word, Excel, Powerpoint) and Git</b></p>
+<p>📝Knowledgeable in <b>Google Editors(Docs, Slides, Sheets) and Git</b></p>
 <p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dami-adenugba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dami-adenugba" height="30" width="40" /></a>
-<a href="https://twitter.com/ade_crypt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ade_crypt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adedotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedotdev" height="30" width="40" /></a>
+<a href="https://twitter.com/adedotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adedotdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
