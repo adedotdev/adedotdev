@@ -7,8 +7,8 @@
 
 <h3 align="left">Skills:</h3>
 <p>⚡Adept in <b>Java, C++, C/C#, SQL, HTML5, CSS</b></p>
-<p>🔭Proficient in <b>English and Spanish</b></p>
-<p>📝Knowledgeable in <b>Google Editors(Docs, Slides, Sheets) and Git</b></p>
+<p>🔭Proficient with <b>Google Editors(Docs, Slides, Sheets) and Git</b></p>
+<p>📝Knowledgeable in <b>English and Spanish</b></p>
 <p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
 <h3 align="left">Connect with me:</h3>
