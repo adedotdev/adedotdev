@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
  
-<p align="center"><b>You can contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b>📫</p>
+<p align="center"><b>Contact me via email at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b>📫</p>
 
 <h3 align="left">Skills:</h3>
-<p>⚡Adept in <b>Java, C++, C/C#, SQL, HTML5, CSS</b></p>
-<p>🔭Proficient with <b>Google Editors(Docs, Slides, Sheets) and Git</b></p>
+<p>⚡Adept in <b>Python, Java, C++, C/C#, SQL, HTML5, CSS</b></p>
+<p>🔭Proficient with <b>SpringBoot, Git, NumPy, pandas and scikit-learn</b></p>
 <p>📝Knowledgeable in <b>English and Spanish</b></p>
 <p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
