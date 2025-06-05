@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋</h1>
-<p align="center">I'm Dami, a passionate software developer with a deep interest in Deep Learning, Data Science and System Architecture. I'm proficient at problem solving, creative thinking, and thrive in dynamic environments where I can apply my skills to a wide range of challenges. </p>
+<p align="center">I'm Dami, a passionate software developer with a deep interest in Machine Learning, Data Science, System Architecture and Software Engineering. I'm proficient at problem solving, creative thinking, and thrive in dynamic environments where I can apply my skills to a wide range of challenges. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidenuga16&label=Profile%20views&color=0e75b6&style=flat" alt="damidenuga16" /> </p>
  
