@@ -7,7 +7,7 @@
 
 <h3 align="left">Skills:</h3>
 <p>⚡Adept in <b>Python, Java, C++, C#/C, SQL, Javascript, HTML5/CSS</b></p>
-<p>🔭Proficient with <b>SpringBoot, Node.js, Git, NumPy, pandas, scikit-learn</b></p>
+<p>🔭Proficient with <b>Flask, SpringBoot, Node.js, Git, NumPy, pandas, scikit-learn</b></p>
 <p>📝Knowledgeable in <b>English and Spanish</b></p>
 <p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
