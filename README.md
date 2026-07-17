@@ -6,9 +6,9 @@
 <p align="center"><b>Contact me at: <a href="mailto:damidenuga16@gmail.com">damidenuga16@gmail.com</b>📫</p>
 
 <h3 align="left">Skills:</h3>
-<p>⚡Adept in <b>Python, Java, C++, C#/C, SQL, Javascript, HTML5/CSS</b></p>
-<p>🔭Proficient with <b>Flask, SpringBoot, Node.js, Git, NumPy, pandas, scikit-learn</b></p>
-<p>📝Knowledgeable in <b>English and Spanish</b></p>
+<p>⚡Proficient with frameworks like <b>Flask, FastAPI, Node.js, React, Bootstrap, SpringBoot</b></p>
+<p>🔭Dexterous with developer tools like <b>Git, VSCode, Cursor, Atlassian tools, Linux</b></p>
+<p>📝Knowledgeable in libraries like <b>LangChain, NumPy, pandas, scikit-learn</b></p>
 <p>🌱Excellent in <b>problem solving and creative thinking</b></p>
 
 <h3 align="left">Feel free to connect:</h3>
